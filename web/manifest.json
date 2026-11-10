@@ -1,0 +1,35 @@
+{
+    "name": "Campus Store",
+    "short_name": "Campus Store",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F3F5FA",
+    "theme_color": "#1D5FF2",
+    "description": "Campus Store shopping cart laboratory exercise.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
